@@ -7,4 +7,6 @@ echo "Course title: $course_name";
 echo " Enrolled Students: $enrolled_students";
 echo " Course price: $price $ USD";
 echo " Course on discount: $on_discount";
+// echo gettype($course_name);
+// var_dump($course_name);
 ?>
