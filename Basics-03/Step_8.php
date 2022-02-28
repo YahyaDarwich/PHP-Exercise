@@ -1,4 +1,5 @@
 <?php
+//(for each loop) exercise 1
 
 $transactions = array(
   array(
